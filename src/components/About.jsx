@@ -18,7 +18,7 @@ function About() {
           <div className="flex flex-col w-full lg:w-1/3 justify-center text-center lg:text-left mb-6 lg:mb-0 max-lg:px-10">
             <h2 className="text-4xl lg:text-6xl mb-6 font-bold"> Our Story</h2>
             <p className="text-lg lg:text-xl my-6">
-              Founder, Jonathan Li, shares a passion for board games, boba, and
+              Founder, Abhay yadav, shares a passion for board games, boba, and
               delicious food, so he combined them all to become Sip & Play, Park
               Slope’s first board game cafe. It is a straightforward concept,
               come in with your friends and family to play any board game from
